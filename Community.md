@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td> Name </td>
+    <td> Raj Khare </td>
+  </tr>
+  <tr>
+    <td> GitHub </td>
+    <td> https://github.com/rajkhare05 </td>
+  </tr>
+  <tr>
+    <td> LinkedIn </td>
+    <td> https://www.linkedin.com/in/rajkhare05 </td>
+  </tr>
+  <tr>
+    <td> College </td>
+    <td> Oriental University Indore </td>
+  </tr>
+</table>
+
